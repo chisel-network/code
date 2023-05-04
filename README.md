@@ -1,4 +1,4 @@
-# Chisel MILP Solver
+# Chisel
 
 This repo contains the CHISEL solver in the encoding directory which uses Gurobi to solve a mixed-integer linear programming (MILP) problem. The problem involves finding the optimal allocation of spectrum to slices in an optical network.
 
